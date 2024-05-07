@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wlxvo08w8k3tc0hw?svg=true)](https://ci.appveyor.com/project/Sashkasam/methods-dz)
 ## Методы
 
 ### Легенда
